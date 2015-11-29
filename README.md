@@ -1,5 +1,7 @@
 # restify-cors-middleware
 
+# UPDATED TO THE LATEST RESTIFY 4.X
+
 > CORS middleware with full [W3C spec](www.w3.org/TR/cors) support.
 
 ## Usage
